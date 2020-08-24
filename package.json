@@ -8,6 +8,7 @@
     "start": "electron .",
     "publish": "build --win -p always"
   },
+  "private": true,
   "devDependencies": {
     "electron": "^3.0.2",
     "electron-builder": "^20.28.4"
